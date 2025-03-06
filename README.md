@@ -30,9 +30,9 @@ This project is designed to recognize Arabic speech commands with noise cancella
 ## Usage
 
 To start recognizing speech commands,
-select your microphone device: 1 
-press "y" to Record another command
-press "n" to exit
+- select your microphone device: 1 
+- press "y" to Record another command
+- press "n" to exit
 
 
 python your_script_name.py
