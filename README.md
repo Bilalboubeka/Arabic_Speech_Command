@@ -35,8 +35,6 @@ To start recognizing speech commands,
 - press "n" to exit
 
 
-python your_script_name.py
-
 ## Features
 
 - **Noise Cancellation**: Basic noise cancellation using spectral gating.
