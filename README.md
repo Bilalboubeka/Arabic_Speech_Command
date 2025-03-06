@@ -16,22 +16,22 @@ This project is designed to recognize Arabic speech commands with noise cancella
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/Bilalboubeka/Arabic_Speech_Command.git
    cd Arabic_Speech_Command
+  
 
 ## Usage
 
 To start recognizing speech commands, run the following command and follow the prompts to select your microphone device:
 
-```bash
+
 python your_script_name.py
 
 ## Features
