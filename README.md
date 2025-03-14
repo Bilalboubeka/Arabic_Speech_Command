@@ -1,7 +1,7 @@
 
 # Arabic Speech Command Recognition with Noise Cancellation
 
-This project is designed to recognize Arabic speech commands with noise cancellation using a trained SVM model. The system can recognize commands such as "zero", "yes", "left", "ok", "open", "start", "stop", and "down".
+This project is designed to recognize Arabic speech commands with noise cancellation using a trained SVM model. The system can recognize commands such as "صفر", "نعم", "يسار", "موافق", "فتح", "بدأ", "توقف", and "أسفل".
 
 ## Table of Contents
 - [Installation](#installation)
